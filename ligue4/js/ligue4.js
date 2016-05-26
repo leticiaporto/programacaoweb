@@ -12,7 +12,7 @@
     function carregaImagens(){//carrega imagens de b.png (branco) para iniciar o jogo
        var x = document.getElementsByTagName("img");
        for (i=1; i< x.length; i++){
-			 x[i].src = "b.png";
+			 x[i].src = "img/b.png";
 			 tab[i]=0;
 	   }
 	   vezDoJogador=1;
@@ -25,13 +25,13 @@
 		for(var k=35; k>=0; k=k-7){//for para percorrer cada posição da coluna
 			if(tab[j+k]==0){ 
 				if (vezDoJogador==1){
-					x[j+k].src = "azul.png";
+					x[j+k].src = "img/azul.png";
 					vezDoJogador=2;
 					tab[j+k]=1;
 					break;
 				}
 				else{
-					x[j+k].src = "vermelho.png";
+					x[j+k].src = "img/vermelho.png";
 					vezDoJogador=1;
 					tab[j+k]=2;
 					break;
