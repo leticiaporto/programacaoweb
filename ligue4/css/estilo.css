@@ -1,0 +1,45 @@
+#logotipo { 
+	margin: 0 auto; 
+	width: 300px;
+	text-align:center; 
+}
+
+#regra1 {
+	color: blue;
+}
+
+#regra2 {
+	color: red;
+}
+
+.linha { 
+	margin: 0 auto; 
+	width: 895px; 
+	text-align:center;
+}
+
+.celula { 
+	border: solid; 
+	width: 120px; 
+	float:left;
+
+}
+
+img { 
+	width: 55%; 
+	height: 65%;
+}
+
+h3 {
+	text-align:center;
+	
+}
+
+footer{
+	margin-top: 500px; 
+	clear: both;
+	color: white;
+	text-align: center;
+	color: red;
+		
+}
