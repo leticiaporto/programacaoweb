@@ -1,0 +1,38 @@
+
+
+.banner { 
+   	height:650px;
+	float : left;
+	margin-top:0px;
+	margin-left:0px;
+	margin-right:0px;
+    display: block;
+    
+
+   
+}
+.banner img:hover {
+	border:1px solid red;
+   -moz-box-shadow: 5px 5px 5px #b6ebf7;
+   -webkit-box-shadow: 5px 5px 5px #b6ebf7;
+    border: 10px solid red;
+    outline-style: solid;
+    outline-width: thin;
+    border: 10px solid red;
+       outline-width: 3px;
+}
+	 
+
+
+.banner img {
+
+	width:245px;
+	height: 300px;
+	margin-top:10px;
+	margin-left:5px;
+	margin-right:5px;
+	float : center;
+	transition: opacity 0.5s;
+	
+	
+}
