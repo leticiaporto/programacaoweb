@@ -1,0 +1,231 @@
+*{margin: 0; padding: 0;}
+
+body{
+	color: pink;
+}
+#logotipo {
+	width:80%;
+	height:200px;
+	background:black;
+	float: left;
+}
+
+#imglogotipo{
+	width:200px;
+	height:200px;
+	float: left;
+	
+}
+
+#txtlogotipo{
+	padding-left:350px;
+	padding-top:50px;
+	float: center;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 100px;
+	color: white;
+	
+}
+
+#login {
+	width: 20%;
+	height:80px;
+	float:right;
+	background-color:black;
+	color: white;
+	padding-top:20px;
+	text-align:center;
+}
+
+#busca {
+	background-color: white;
+	width: 20%;
+	height:70px;
+	float:right;
+	background-color:black;
+	color: white;
+	padding-top:30px;
+	text-align:center;
+}
+
+
+body{
+	font-family: arial, helvetica, sans-serif;
+	font-size: 14px;
+}
+
+.menu{
+	font-size: 21.75px;
+	background: white;
+	list-style:none; 
+	border:1px solid #00FA9A; 
+	float:left; 
+	margin-left:230px;
+	margin-top:1px;
+
+}
+
+.menu li{
+	
+	position: relative; 
+	float:left; 
+	border-right:1px solid #c0c0c0; 
+}
+
+
+.menu li a{
+	color:#999; 
+	text-decoration:none; 
+	padding:5px 10px; 
+	display:block;
+}
+	
+ 
+.menu li a:hover{
+background:#999;
+color:#fff;
+-moz-box-shadow:0 3px 10px 0 #CCC;
+-webkit-box-shadow:0 3px 10px 0 #ccc;
+text-shadow:0px 0px 5px #fff;
+}
+
+
+.menu li  ul{
+position:absolute;
+top:25px;
+left:0;
+background-color:#fff;
+display:none;
+}  
+
+
+.menu li:hover ul, .menu li.over ul{
+	display:block;
+}
+
+.menu li ul li{
+	border:1px solid #c0c0c0; 
+	display:block; 
+	width:150px;
+}
+
+
+#conteudonotebooks {
+	height:2400px;
+	margin-top:250px;
+	margin-left:0px;
+	margin-right:0px;
+    display: block;
+	text-align:center;
+}
+
+#notebook2, #notebook3, #notebook4, #notebook5{
+	margin-top:100px;
+	height:400px;
+}
+
+.notebooks img{
+	width:500px;
+	height:300px;
+}
+
+.notebooks{
+	text-align:center;
+}
+
+#conteudotablets {
+	height:2400px;
+	margin-top:250px;
+	margin-left:0px;
+	margin-right:0px;
+    display: block;
+	text-align:center;
+}
+
+#tablet2, #tablet3, #tablet4, #tablet5{
+	margin-top:100px;
+	height:400px;
+}
+
+.tablets img{
+	width:500px;
+	height:300px;
+}
+
+.tablets{
+	text-align:center
+}
+
+#conteudosmartphones {
+	height:2550px;
+	margin-top:250px;
+	margin-left:0px;
+	margin-right:0px;
+    display: block;
+	text-align:center;
+}
+
+#smartphone2, #smartphone3, #smartphone4, #smartphone5{
+	margin-top:100px;
+	height:400px;
+}
+
+.smartphones img{
+	width:400px;
+	height:380px;
+}
+
+.smartphones{
+	text-align:center
+}
+
+
+
+#publicidade {
+	margin-left:10px;
+	margin-right:10px;
+	height:200px;
+}
+
+#publi1{
+	width:400px;
+	height:200px;
+	float : left;
+}
+
+#publi2{
+	width:400px;
+	height:200px;
+	float : right;
+}
+
+#publi3{
+	width:400px;
+	height:200px;
+	float : center;
+}
+
+#rodape
+{
+    margin-top:10px;
+	margin-left:10px;
+	margin-right:10px;
+	
+	
+	height:50px;
+	background: black;
+	float : center;
+
+	clear :both;
+	background-color: black;
+	color: white;
+	text-align:center;
+	padding-top:30px
+}
+
+
+
+
+
+
+

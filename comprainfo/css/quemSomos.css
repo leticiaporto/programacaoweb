@@ -1,0 +1,119 @@
+
+#container {
+	width:94%;
+	
+	height:100px;
+	margin-top:250px;
+	background:#808080;
+	padding:40px;
+	border-radius: 20px;
+	
+}
+
+.conteudoquemsomos {
+	width:80%;
+	height:1100px;
+	margin: auto;
+	background:white;
+	margin-top:10px;
+    
+}
+#imgquemsomos{
+	
+	width:200px;
+    height:200px;
+	margin-top:10px;
+	padding:40px;	
+    margin-left:10px;
+    margin-right:10px;
+    background: #20B2AA;
+    box-shadow: 10px 10px 10px #20B2AA;
+   -webkit-box-shadow: 10px 10px 10px #40E0D0;
+   -moz-box-shadow: 10px 10px 10px #363636;
+    border-radius: 20px;
+}
+
+#conteudoquemsomos {
+	width:700px;
+    height:250px;
+	margin-top:10px;
+	background:#778899;
+	padding:10px;
+	margin-left:10px;
+   margin-right:10px;
+   float:right;
+   text-align: justify;
+   background: #20B2AA;
+    box-shadow: 10px 10px 10px #20B2AA;
+   -webkit-box-shadow: 10px 10px 10px #40E0D0;
+   -moz-box-shadow: 10px 10px 10px #363636;
+    border-radius: 20px;
+	
+}
+#missao {
+	width:700px;
+    height:170px;
+	margin-top:40px;
+	background:#778899;
+	padding:10px;
+	margin-left:10px;
+   margin-right:10px;
+   float:right;
+   text-align: justify;
+   background: #20B2AA;
+    box-shadow: 10px 10px 10px #20B2AA;
+   -webkit-box-shadow: 10px 10px 10px #40E0D0;
+   -moz-box-shadow: 10px 10px 10px #363636;
+    border-radius: 20px;
+	padding-top:80px;
+}
+#visao {
+	width:700px;
+   height:170px;
+	margin-top:50px;
+	background:#778899;
+	padding:10px;
+	margin-left:10px;
+   margin-right:10px;
+   float:right;
+   text-align: justify;
+   background: #20B2AA;
+    box-shadow: 10px 10px 10px #20B2AA;
+   -webkit-box-shadow: 10px 10px 10px #40E0D0;
+   -moz-box-shadow: 10px 10px 10px #363636;
+    border-radius: 20px;
+	padding-top:80px;
+	
+}
+#imgmissao {
+	width:200px;
+    height:200px;
+	margin-top:30px;
+	padding:40px;	
+    margin-left:10px;
+    margin-right:10px;
+    background: #20B2AA;
+    box-shadow: 10px 10px 10px #20B2AA;
+   -webkit-box-shadow: 10px 10px 10px #40E0D0;
+   -moz-box-shadow: 10px 10px 10px #363636;
+    border-radius: 20px;
+	
+	
+}
+#imgvisao {
+	width:200px;
+    height:200px;
+	margin-top:40px;
+	padding:40px;	
+    margin-left:10px;
+    margin-right:10px;
+    background: #20B2AA;
+    box-shadow: 10px 10px 10px #20B2AA;
+   -webkit-box-shadow: 10px 10px 10px #40E0D0;
+   -moz-box-shadow: 10px 10px 10px #363636;
+    border-radius: 20px;
+	float:left;
+	
+}
+h3{font-size:20px}
+
