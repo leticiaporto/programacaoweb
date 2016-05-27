@@ -12,14 +12,17 @@
    
 }
 .banner img:hover {
-	border:1px solid red;
+/*	border:1px solid red;
    -moz-box-shadow: 5px 5px 5px #b6ebf7;
    -webkit-box-shadow: 5px 5px 5px #b6ebf7;
     border: 10px solid red;
     outline-style: solid;
     outline-width: thin;
     border: 10px solid red;
-       outline-width: 3px;
+       outline-width: 3px;*/
+    -webkit-transform: scale(1.3);
+    -ms-transform: scale(1.3);
+    transform: scale(1.3);
 }
 	 
 
