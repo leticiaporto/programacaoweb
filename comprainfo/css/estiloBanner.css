@@ -1,5 +1,5 @@
 .bannerpromocionais {  
-    width: 1500px;  
+    
     height: 500px;  
     overflow: hidden;  
     position: relative;  
@@ -7,7 +7,8 @@
     background: url(../imagens/fundo_txan.jpg) no-repeat center;  
     margin: 50px auto 0;  
     padding: 0;  
-	margin-left:230px;
+	margin-left:px;
+	border:2px solid blue; 
 } 
 .bannerpromocionais img {
 
@@ -51,7 +52,7 @@ a.btn {
     font-size: 17px;  
     font-weight: normal;  
     padding: 5px 15px;  
-    text-shadow: -1px -1px 0px rgba(0,0,0,0.6);  
+    text-shadow: -1px -1px 0px rgba(0,0,0,10.0);  
     background-color: #FF3300;  
     text-decoration: none;  
     text-transform: uppercase;  
