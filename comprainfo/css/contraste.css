@@ -1,13 +1,23 @@
 *{margin: 0; padding: 0;}
 
-body{
-	color: pink;
+#acessibilidade a {
+	color: black;
 }
+
+#acessibilidade{
+	text-align: center;
+	border: solid yellow;
+	background-color: yellow;
+}
+
 #logotipo {
-	width:80%;
-	height:200px;
-	background:black;
+	width:79.6%;
+	height:201.1px;
 	float: left;
+	border: solid yellow;
+	color:yellow;
+	background: black;
+	
 }
 
 #imglogotipo{
@@ -18,34 +28,35 @@ body{
 }
 
 #txtlogotipo{
-	padding-left:350px;
+	padding-left:300px;
 	padding-top:50px;
-	float: center;
+	float: absolute;
 	font-family: arial, helvetica, sans-serif;
 	font-size: 100px;
-	color: white;
 	
 }
 
 #login {
-	width: 20%;
-	height:80px;
+	color: yellow;
+	width: 19.5%;
+	height:95px;
 	float:right;
 	background-color:black;
-	color: white;
 	padding-top:20px;
 	text-align:center;
+	border: solid;
+	
 }
 
 #busca {
-	background-color: white;
-	width: 20%;
-	height:70px;
+	color: yellow;
+	width: 19.5%;
+	height:60px;
 	float:right;
 	background-color:black;
-	color: white;
-	padding-top:30px;
+	padding-top:20px;
 	text-align:center;
+	border: solid;
 }
 
 
@@ -56,12 +67,12 @@ body{
 
 .menu{
 	font-size: 21.75px;
-	background: white;
+	background: black;
 	list-style:none; 
-	border:1px solid #00FA9A; 
+	border:2px solid black; 
 	float:left; 
-	margin-left:230px;
-	margin-top:1px;
+	margin-left:px;
+	margin-top:px;
 
 }
 
@@ -76,7 +87,7 @@ body{
 .menu li a{
 	color:#999; 
 	text-decoration:none; 
-	padding:5px 10px; 
+	padding:5px 45px; 
 	display:block;
 }
 	
@@ -109,9 +120,156 @@ display:none;
 	width:150px;
 }
 
+.bannerpromocionais {  
+    
+    height: 500px;  
+    overflow: hidden;  
+    position: relative;  
+    display: block;  
+    background: url(../imagens/fundo_txan.jpg) no-repeat center;  
+    margin: 50px auto 0;  
+	border:2px solid yellow; 
+	background: black;
+}
+
+.banner { 
+   	height:670px;
+	float : left;
+	margin-top:px;
+	margin-left:0px;
+	margin-right:0px;
+    display: block;
+	border:2px solid yellow;
+	padding-top: 50px;
+	background: black;
+    
+
+   
+}
+
+.conteudoquemsomos {
+	width:100%;
+	height:1000px;
+	margin: auto;
+	background:yellow;
+	margin-top:10px;
+    
+}
+
+#imgquemsomos{
+	
+	width:200px;
+    height:200px;
+	margin-top:10px;
+	padding:40px;	
+    margin-left:100px;
+    margin-right:10px;
+    background: black;
+    box-shadow: 10px 10px 10px #8B8B83;
+   -webkit-box-shadow: 10px 10px 10px #8B8B83;
+   -moz-box-shadow: 10px 10px 10px #8B8B83;
+    border-radius: 20px;
+	
+}
+
+#conteudoquemsomos {
+	width:700px;
+    height:250px;
+	margin-top:10px;
+	padding:10px;
+	margin-left:10px;
+   margin-right:100px;
+   float:right;
+   text-align: justify;
+   background: black;
+   box-shadow: 10px 10px 10px #8B8B83;
+   -webkit-box-shadow: 10px 10px 10px #8B8B83;
+   -moz-box-shadow: 10px 10px 10px #8B8B83;
+    border-radius: 20px;
+	color: white;
+	
+}
+
+#imgmissao {
+	width:200px;
+    height:200px;
+	margin-top:30px;
+	padding:40px;	
+    margin-left:100px;
+    margin-right:10px;
+    background: black;
+   box-shadow: 10px 10px 10px #8B8B83;
+   -webkit-box-shadow: 10px 10px 10px #8B8B83;
+   -moz-box-shadow: 10px 10px 10px #8B8B83;
+    border-radius: 20px;
+	
+	
+	
+}
+
+
+#missao {
+	width:700px;
+    height:170px;
+	margin-top:40px;
+	background:black;
+	padding:10px;
+	margin-left:10px;
+   margin-right:100px;
+   float:right;
+   text-align: justify;
+   background: black;
+   box-shadow: 10px 10px 10px #8B8B83;
+   -webkit-box-shadow: 10px 10px 10px #8B8B83;
+   -moz-box-shadow: 10px 10px 10px #8B8B83;
+    border-radius: 20px;
+	color: white;
+	padding-top:80px;
+}
+
+
+#imgvisao {
+	width:200px;
+    height:200px;
+	margin-top:40px;
+	padding:40px;	
+    margin-left:100px;
+    margin-right:10px;
+    background: black;
+    background: black;
+   box-shadow: 10px 10px 10px #8B8B83;
+   -webkit-box-shadow: 10px 10px 10px #8B8B83;
+   -moz-box-shadow: 10px 10px 10px #8B8B83;
+    border-radius: 20px;
+	
+	float:left;
+	
+}
+
+
+#visao {
+	width:700px;
+    height:170px;
+	margin-top:50px;
+	background:black;
+	padding:10px;
+	margin-left:10px;
+    margin-right:100px;
+    float:right;
+    text-align: justify;
+    background: black;
+    box-shadow: 10px 10px 10px #8B8B83;
+   -webkit-box-shadow: 10px 10px 10px #8B8B83;
+   -moz-box-shadow: 10px 10px 10px #8B8B83;
+    border-radius: 20px;
+	color: white;
+	padding-top:80px;
+	
+}
+
 
 #conteudonotebooks {
-	height:2400px;
+	height:2745px;
 	margin-top:250px;
 	margin-left:0px;
 	margin-right:0px;
@@ -119,9 +277,15 @@ display:none;
 	text-align:center;
 }
 
-#notebook2, #notebook3, #notebook4, #notebook5{
-	margin-top:100px;
+#notebook1, #notebook2, #notebook3, #notebook4, #notebook5{
+	color: white;
 	height:400px;
+	border: solid;
+	border-color:yellow;
+	padding: 5em;
+	margin: 0.2em;
+	background: black;
+	
 }
 
 .notebooks img{
@@ -134,17 +298,20 @@ display:none;
 }
 
 #conteudotablets {
-	height:2400px;
+	height:2750px;
 	margin-top:250px;
-	margin-left:0px;
-	margin-right:0px;
     display: block;
 	text-align:center;
 }
 
-#tablet2, #tablet3, #tablet4, #tablet5{
-	margin-top:100px;
+#tablet1, #tablet2, #tablet3, #tablet4, #tablet5{
+	color: white;
 	height:400px;
+	border: solid;
+	border-color:yellow;
+	padding: 5em;
+	margin: 0.2em;
+	background: black;
 }
 
 .tablets img{
@@ -157,17 +324,20 @@ display:none;
 }
 
 #conteudosmartphones {
-	height:2550px;
+	height:2750px;
 	margin-top:250px;
-	margin-left:0px;
-	margin-right:0px;
     display: block;
 	text-align:center;
 }
 
-#smartphone2, #smartphone3, #smartphone4, #smartphone5{
-	margin-top:100px;
+#smartphone1, #smartphone2, #smartphone3, #smartphone4, #smartphone5{
+	color: white;
 	height:400px;
+	border: solid;
+	border-color:yellow;
+	padding: 5em;
+	margin: 0.2em;
+	background: black;
 }
 
 .smartphones img{
@@ -182,9 +352,10 @@ display:none;
 
 
 #publicidade {
-	margin-left:10px;
-	margin-right:10px;
+	margin-top:724px;	
 	height:200px;
+	border: solid yellow;
+	
 }
 
 #publi1{
@@ -205,22 +376,14 @@ display:none;
 	float : center;
 }
 
-#rodape
-{
-    margin-top:10px;
-	margin-left:10px;
-	margin-right:10px;
-	
-	
+#rodape{	
 	height:50px;
-	background: black;
 	float : center;
-
 	clear :both;
-	background-color: black;
-	color: white;
+	color: black;
 	text-align:center;
-	padding-top:30px
+	padding-top:30px;
+	background-color: yellow;
 }
 
 

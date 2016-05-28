@@ -2,13 +2,20 @@
 
 #acessibilidade{
 	text-align: center;
-	border: solid blue;
+	background: blue;
+	
+	
+	 
+}
+a {
 	color: white;
 }
 
+
+
 #logotipo {
 	width:79.6%;
-	height:200px;
+	height:201.1px;
 	float: left;
 	border: solid;
 	color:blue;
