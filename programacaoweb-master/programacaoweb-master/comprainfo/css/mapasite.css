@@ -5,16 +5,16 @@
 	margin-top:300px;
 	margin-left:200px;
 	margin-right:0px;
-    display: block;
+        display: block;
 	text-align:center;
 	
 	background:#0099CC;
 	 border-radius: 20px;
 	background: #0099CC ;
-    box-shadow: 10px 10px 10px #6CA6CD;
-   -webkit-box-shadow: 10px 10px 10px #6CA6CD;
-   -moz-box-shadow: 10px 10px 10px #6CA6CD;
-    border-radius: 20px;
+        box-shadow: 10px 10px 10px #6CA6CD;
+       -webkit-box-shadow: 10px 10px 10px #6CA6CD;
+       -moz-box-shadow: 10px 10px 10px #6CA6CD;
+        border-radius: 20px;
 	text-align: left;
 	font-size:20px;
 	padding-top:10px;
@@ -22,5 +22,5 @@
 }
 
 
-a:link    {color:green; background-color:transparent; text-decoration:none}
+.conteudomapa a:link {color:green; background-color:transparent; text-decoration:none}
 	
