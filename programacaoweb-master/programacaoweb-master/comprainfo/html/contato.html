@@ -38,10 +38,10 @@
 		<form>
 			<label>Login</label></p>
 			<label>Usuario</label> 
-			<input type="email" required> <br></br>
+			<input type="email" > <br></br>
 			<label>Senha</label> 
 			<input type="password" required> <br></br> 
-			<input type="button" onclick="" value="Entrar">
+			<button class="submit" type="submit">Entrar</button>
 		</form>
 	</div>
 
@@ -78,37 +78,37 @@
 	
 	  <div id = "formulariocontato">
 		<form>
-		<div id="nome">
-	     	<p><label>Nome:</label></p>
-			<input type="text" > 
-			</div>
+			<div id="nome">
+	     			<label>Nome*: <input name=”nome” required></label>
+                	</div>
+                	
 			<div id="email">
-			<p><label>Email*:</label></p>			
-			<input type="email"  required>
-			</div>
+			 	<label>Email*: <input type="email" required ></label>
+			 
+            		</div>
+            		
 			<div id="telefone">
-			<p><label>Telefone:</label></p>			
-			<input type="text" > 
+				<label>Telefone*: <input pattern="^\d{2}-\d{4}-\d{4}$" type="tel" required></label>			
 			</div>
-			<div id="cidade">
-			<p><label>Cidade:</label></p>			
-			<input type="text" > 
-			</div>
-			<div id="uf">
-			<p><label>UF:</label></p>			
-			<input type="text" > 
-			</div>
-			<div id="assunto">
-			<p><label>Assunto:</label></p>			
-			<input type="text" > 
-			</div>
-			<div id="mensagem">
-			<p><label>Mensagem:</label></p>
 			
-			<input type="text" > 
+			<div id="cidade">
+				<label>Cidade: <input type="text" ></label>		
 			</div>
+			
+			<div id="uf">
+				<label>UF: <input type="text"></label>			
+			</div>
+			
+			<div id="assunto">
+				<label>Assunto*: <input type="text" required></label>			
+			</div>
+			
+			<div id="mensagem">
+			 	<label>Mensagem*: <textarea name=”mensagem” required></textarea></label>
+			</div>
+			
 			<div id="botaoenviar"><br></br>
-			<input type="button" onclick="" value="Enviar">
+				 <button class="submit" type="submit">Enviar</button>
 			</div>
 		</form>
 	
