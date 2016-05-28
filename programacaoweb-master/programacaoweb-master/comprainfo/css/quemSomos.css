@@ -1,0 +1,117 @@
+
+
+.conteudoquemsomos {
+	width:100%;
+	height:1000px;
+	margin: auto;
+	background:white;
+	margin-top:10px;
+    
+}
+#imgquemsomos{
+	
+	width:200px;
+    height:200px;
+	margin-top:10px;
+	padding:40px;	
+    margin-left:100px;
+    margin-right:10px;
+    background: #0099CC ;
+    box-shadow: 10px 10px 10px #6CA6CD;
+   -webkit-box-shadow: 10px 10px 10px #6CA6CD;
+   -moz-box-shadow: 10px 10px 10px #6CA6CD;
+    border-radius: 20px;
+}
+
+#conteudoquemsomos {
+	width:700px;
+    height:250px;
+	margin-top:10px;
+	
+	padding:10px;
+	margin-left:10px;
+   margin-right:100px;
+   float:right;
+   text-align: justify;
+   background: #0099CC ;
+    box-shadow: 10px 10px 10px #6CA6CD;
+   -webkit-box-shadow: 10px 10px 10px #6CA6CD;
+   -moz-box-shadow: 10px 10px 10px #6CA6CD;
+    border-radius: 20px;
+	
+}
+
+#imgmissao {
+	width:200px;
+    height:200px;
+	margin-top:30px;
+	padding:40px;	
+    margin-left:100px;
+    margin-right:10px;
+    background: #0099CC ;
+    box-shadow: 10px 10px 10px #6CA6CD;
+   -webkit-box-shadow: 10px 10px 10px #6CA6CD;
+   -moz-box-shadow: 10px 10px 10px #6CA6CD;
+    border-radius: 20px;
+	
+	
+}
+
+
+#missao {
+	width:700px;
+    height:170px;
+	margin-top:40px;
+	background:#0099CC ;
+	padding:10px;
+	margin-left:10px;
+   margin-right:100px;
+   float:right;
+   text-align: justify;
+    box-shadow: 10px 10px 10px #6CA6CD;
+   -webkit-box-shadow: 10px 10px 10px #6CA6CD;
+   -moz-box-shadow: 10px 10px 10px #6CA6CD;
+    border-radius: 20px;
+	padding-top:80px;
+}
+
+
+#imgvisao {
+	width:200px;
+    height:200px;
+	margin-top:40px;
+	padding:40px;	
+    margin-left:100px;
+    margin-right:10px;
+    background: #0099CC ;
+    box-shadow: 10px 10px 10px #6CA6CD;
+   -webkit-box-shadow: 10px 10px 10px #6CA6CD;
+   -moz-box-shadow: 10px 10px 10px #6CA6CD;
+    border-radius: 20px;
+	float:left;
+	
+}
+
+
+#visao {
+	width:700px;
+   height:170px;
+	margin-top:50px;
+	background:#0099CC ;
+	padding:10px;
+	margin-left:10px;
+   margin-right:100px;
+   float:right;
+   text-align: justify;
+   
+    box-shadow: 10px 10px 10px #6CA6CD;
+   -webkit-box-shadow: 10px 10px 10px #6CA6CD;
+   -moz-box-shadow: 10px 10px 10px #6CA6CD;
+    border-radius: 20px;
+	padding-top:80px;
+	
+}
+
+
+h3{font-size:20px; padding-top:10px;}
+

@@ -1,0 +1,123 @@
+
+
+#textContato {
+	width:85%;
+	
+	height:40px;
+	
+	margin-top:250px;
+	margin-left:10px;
+	background:white;
+	padding:50px;
+	border-radius: 20px;
+	background: white;
+	
+	
+}
+#formulariocontato {
+	width:850px;
+	height:600px;
+	
+	margin-top:5px;
+	margin-left:200px;
+	margin-right:0px;
+    display: block;
+	text-align:center;
+	
+	background:#0099CC;
+	/*box-shadow: 10px 10px 10px #20B2AA;*/
+   /*-webkit-box-shadow: 10px 10px 10px #40E0D0;*/
+  /*-moz-box-shadow: 10px 10px 10px #363636;*/
+    border-radius: 20px;
+	background: #0099CC ;
+    box-shadow: 10px 10px 10px #6CA6CD;
+   -webkit-box-shadow: 10px 10px 10px #6CA6CD;
+   -moz-box-shadow: 10px 10px 10px #6CA6CD;
+    border-radius: 20px;
+}
+
+
+#nome{
+	width:20px;
+	height:10px;
+	
+	margin-top:15px;
+	margin-left:30px;
+	margin-right:0px;
+	padding:20px;
+	
+	
+	
+}
+ #email{
+	width:20px;
+	height:10px;
+	
+	margin-top:15px;
+	margin-left:30px;
+	margin-right:0px;
+	padding:20px;
+	
+	
+	
+}
+ #telefone{
+	width:20px;
+	height:10px;
+	
+	margin-top:15px;
+	margin-left:30px;
+	margin-right:0px;
+	padding:20px;
+	
+	
+} 
+ #cidade{
+	width:20px;
+	height:10px;
+	
+	margin-top:15px;
+	margin-left:30px;
+	margin-right:0px;
+	padding:20px;
+	
+	
+}
+ #uf{
+	width:20px;
+	height:10px;
+	
+	margin-top:15px;
+	margin-left:30px;
+	margin-right:0px;
+	padding:20px;
+	
+	
+}
+ #assunto{
+	width:20px;
+	height:10px;
+	
+	margin-top:15px;
+	margin-left:30px;
+	margin-right:0px;
+	padding:20px;
+	
+	
+}
+ #mensagem {
+	width:20px;
+	height:10px;
+	
+	margin-top:px;
+	margin-left:30px;
+	margin-right:0px;
+	padding:20px;
+	
+	
+}
+
+
+p {
+	font-size:20px;
+	}
